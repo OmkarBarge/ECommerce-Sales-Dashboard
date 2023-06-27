@@ -15,4 +15,5 @@ Slicer for Selecting Specific State<br>
 By combining these charts and slicers, the dashboard offers a holistic view of the e-commerce sales data. Users can identify trends, patterns, and opportunities for growth by analyzing sales amounts, quantities, profits, and customer behavior across various dimensions. The interactive nature of the dashboard empowers users to drill down into specific areas of interest and make informed business decisions based on the insights derived from the data.<br>
 <br>
 link : - https://www.novypro.com/project/ecommerce-sales-dashboard-4 <br>
+<hr>
 <img src ="https://github.com/OmkarBarge/ECommerce-Sales-Dashboard/blob/main/Dashboard.png">
